@@ -3,7 +3,6 @@ const { showAccounts } = require("./actions/accounts/showAccounts");
 
 try {
   getAccessToken().then(result => {
-    console.log(result);
     showAccounts(result);
   }
   );
