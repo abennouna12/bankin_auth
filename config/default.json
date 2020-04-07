@@ -1,0 +1,9 @@
+{
+    "RevolutConfig" : {
+        "hostname" : "https://sandbox-b2b.revolut.com",
+        "client_id" : "n9gS9dxsco9Ly3_4MBZG-L707RFrmaIB0fGtadaVRqw",
+        "refresh_token" : "oa_sand_kkE88Hk1Mwnf_UbgbHFB-77pi9Qo4iXMBiRqcngaQKI",
+        "issuer" : "revolut-jwt-sandbox.glitch.me",
+        "aud" : "https://revolut.com"
+    }    
+}
